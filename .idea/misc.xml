@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Projects/NavigationBar/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Android Projects/NavigationBar/app/src/main/res/layout/fragment_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Projects/NavigationBar/app/src/main/res/layout/fragment_list.xml" value="0.1" />
+        <entry key="..\:/Android Projects/NavigationBar/app/src/main/res/layout/fragment_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Projects/NavigationBar/app/src/main/res/layout/fragment_s_m_s.xml" value="0.19010416666666666" />
+        <entry key="..\:/Android Projects/NavigationBar/app/src/main/res/layout/fragment_vehicle.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Projects/NavigationBar/app/src/main/res/layout/fragment_wallet.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Projects/NavigationBar/app/src/main/res/layout/nav_bar.xml" value="0.1675213675213675" />
+        <entry key="..\:/Android Projects/NavigationBar/app/src/main/res/layout/nav_bar_header.xml" value="0.40655105973025046" />
+        <entry key="..\:/Android Projects/NavigationBar/app/src/main/res/menu/nav_items.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
